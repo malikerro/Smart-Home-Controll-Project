@@ -7,9 +7,6 @@ Program contains elements of code from:
 #   https://github.com/miketeachman/micropython-i2s-examples/blob/master/examples/play_tone.py
     Copyright (c) 2022 Mike Teachman - The MIT License (MIT)
     
-#   https://github.com/2black0/MicroPython-ESP32-BLE/blob/main/main.py
-    Copyright (c) 2021 Ardy Seto - The MIT License (MIT)
-    
 #   https://github.com/glenn20/micropython/blob/espnow-g20-dev/docs/library/espnow.rst#id5
     by glenn20
     
